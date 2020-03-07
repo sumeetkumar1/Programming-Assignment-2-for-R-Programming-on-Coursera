@@ -1,3 +1,5 @@
+## This function/ program was ceated to invert a matrix
+## makeCasheMatrix function first creats a matrix and cacheSolve function gives us the desired output. 
 makeCacheMatrix <- function(x = numeric()) {
         cache <- NULL
         setMatrix <- function(newValue) {
